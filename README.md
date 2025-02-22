@@ -1,3 +1,8 @@
+get simpe:
+```cmd
+go get github.com/yuan-shuo/simpe
+```
+
 main func:
 
 ```go
